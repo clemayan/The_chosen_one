@@ -4,9 +4,6 @@
 Ce projet a été réalisé en mai 2024 dans le cadre du module GL01 à l'Université de Technologie de Troyes (UTT).
 Il s'agit d'un jeu vidéo de plateformes développé à l’aide du logiciel Unity.
 
-## Fonctionnalités 🎯
-
-
 ## Technologies utilisées 🛠
 Unity : Moteur du jeu
 C# : langage de programmation
